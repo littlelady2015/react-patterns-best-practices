@@ -159,3 +159,6 @@ const SecretOnlyIf = ((dataIsReady, isAdmin, userHasPermissions) => {
 
 
 
+=======
+# react-patterns-best-practices
+>>>>>>> 875302a1267fe5d3976bd578b5066239cd10cc0e
